@@ -13,7 +13,7 @@ I'm interested in landing opportunities in:
 Feel free to check out my repositories to see what I've been working on, such as:
 - An OLS (Ordinary Least Squares) model analyzing income disparities among Canadian immigrants
 - A Java Swing GUI Application enabling users to add and view current investment logs
-- A linear regression model predicting forest fire spread
+- A linear regression model predicting forest fire spread from Portugal
 
 I'll also be adding future projects related to statistical modelling and data visualization within the next few months!
 
