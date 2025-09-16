@@ -1,4 +1,4 @@
-# 👋 Hey! I'm Karl!
+#  Hey there! 👋 I'm Karl!
 Welcome to my Github page! I'm in my third year pursuing a Combined Major in Economics & Statistics at the University of British Columbia (UBC) with a passion for actuarial science and data analytics!
 
 ## 🎯Goals & Interests
