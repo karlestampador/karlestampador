@@ -4,7 +4,7 @@ Welcome to my Github page! I'm in my third year pursuing a Combined Major in Eco
 ## 🎯Goals & Interests
 I'm interested in landing opportunities in:
 
-- Actuarial science & adjacent fields
+- Actuarial Science & adjacent fields
 - Data Analytics & Business Intelligence
 - Statistical Modelling & Machine Learning
 - Quantitative roles applying data to solve complex economic, financial, or policy challenges!
@@ -35,5 +35,5 @@ Outside of the classroom, I have also passed multiple actuary exams:
 - Exam FM (Financial Mathematics) - score TBA
 
 ## 🌱 Currently Growing
-Looking to expand my knowledge in data visualization through Python and SQL to assist with data analysis!
+Looking to expand my knowledge in data visualization through Python and SQL to assist with data analysis before preparing for either Exam SRM (Statistics for Risk Modelling) or MAS-I (Modern Actuarial Statistics I)!
 
