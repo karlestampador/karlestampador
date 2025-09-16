@@ -28,7 +28,7 @@ Throughout my time at UBC, while I have taken a variety of courses in economics 
 - Data Visualization
 - Probability
 - Mathematical Modelling
-- Object-Oriented Programming
+- Object-Oriented Programming (Software Construction)
 
 Outside of the classroom, I have also passed multiple actuary exams:
 - Exam P (Probability) - 9/10
