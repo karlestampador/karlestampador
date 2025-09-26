@@ -35,5 +35,4 @@ Outside of the classroom, I have also passed multiple actuary exams:
 - Exam FM (Financial Mathematics) - score TBA
 
 ## 🌱 Currently Growing
-Looking to expand my knowledge in data visualization through Python and databases through SQL to assist with data analysis before preparing for either Exam SRM (Statistics for Risk Modelling) or MAS-I (Modern Actuarial Statistics I)!
-
+Looking to expand my knowledge in data visualization through Python and databases through SQL to assist with data analysis, while increasing my domain knowledge in statistical modelling!
