@@ -32,7 +32,7 @@ Throughout my time at UBC, while I have taken a variety of courses in economics 
 
 Outside of the classroom, I have also passed multiple actuary exams:
 - Exam P (Probability) - 9/10
-- Exam FM (Financial Mathematics) - score TBA
+- Exam FM (Financial Mathematics) - score 8/10
 
 ## 🌱 Currently Growing
 Looking to expand my knowledge in data visualization through Python and databases through SQL to assist with data analysis, while increasing my domain knowledge in statistical modelling!
