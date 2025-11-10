@@ -18,8 +18,8 @@ Feel free to check out my repositories to see what I've been working on, such as
 I'll also be adding future projects related to statistical modelling and data visualization within the next few months!
 
 ## 🛠️Skills & Tools
-- Programming Languages: R, Python (Pandas, Altair), Java, and LaTeX
-- Tools & Platforms: GitHub, Visual Studio Code, Git, Jupyter Notebook & JupyterLab
+- Programming Languages: R, Python (Pandas, NumPy, Altair), Java, and LaTeX
+- Tools & Platforms: GitHub, Visual Studio Code, Git, JupyterLab
 
 ## 📚 Coursework & Certifcations
 Throughout my time at UBC, while I have taken a variety of courses in economics and statistics, I have also taken courses in data science, mathematics, and computer science, which I have included below:
@@ -32,7 +32,7 @@ Throughout my time at UBC, while I have taken a variety of courses in economics 
 
 Outside of the classroom, I have also passed multiple actuary exams:
 - Exam P (Probability) - 9/10
-- Exam FM (Financial Mathematics) - score 8/10
+- Exam FM (Financial Mathematics) - 8/10
 
 ## 🌱 Currently Growing
 Looking to expand my knowledge in data visualization through Python and databases through SQL to assist with data analysis, while increasing my domain knowledge in statistical modelling!
