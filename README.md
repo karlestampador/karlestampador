@@ -16,10 +16,10 @@ Feel free to check out my repositories to see what I've been working on, such as
 - An OLS (Ordinary Least Squares) model analyzing income disparities among Canadian immigrants
 - A Java Swing GUI Application enabling users to add and view current investment logs
 
-I'll also be adding future projects related to time series within the next few months!
+I'll also be adding future projects related to time series & machine learning within the next few months!
 
 ## 🛠️Skills & Tools
-- Programming Languages: R, Python (Pandas, NumPy, Altair), Java, and LaTeX
+- Programming Languages: R, Python (Pandas, NumPy, Altair, Scikit-learn), Java, and LaTeX
 - Tools & Platforms: GitHub, Visual Studio Code, Git, JupyterLab
 
 ## 📚 Coursework & Certifcations
