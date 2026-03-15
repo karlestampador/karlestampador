@@ -1,5 +1,5 @@
 #  Hey there! 👋 I'm Karl!
-Welcome to my Github page! I'm in my third year pursuing a Combined Major in Economics & Statistics at the University of British Columbia (UBC) with a passion for actuarial science and data analytics!
+Welcome to my Github page! I'm in my third year pursuing a Combined Major in Economics & Statistics at the University of British Columbia (UBC) with a passion for actuarial science, data analytics, and data science!
 
 ## 🎯Goals & Interests
 I'm interested in landing opportunities in:
@@ -16,7 +16,9 @@ Feel free to check out my repositories to see what I've been working on, such as
 - An OLS (Ordinary Least Squares) model analyzing income disparities among Canadian immigrants
 - A Java Swing GUI Application enabling users to add and view current investment logs
 
-I'll also be adding future projects related to time series & machine learning within the next few months!
+I'm also currently working on the following projects, which will be publicly available on my Github soon:
+- A machine learning project to predict NCAA Basketball's March Madness tournament
+- Using classical time series models to analyze influenza-related illnesses (ILI) in the United States 
 
 ## 🛠️Skills & Tools
 - Programming Languages: R, Python (Pandas, NumPy, Altair, Scikit-learn), Java, and LaTeX
