@@ -11,14 +11,15 @@ I'm interested in landing opportunities in:
 
 ## 🚀 Projects
 Feel free to check out my repositories to see what I've been working on, such as:
+- A machine learning project to predict NCAA Basketball's March Madness tournament
+- Using classical time series models to analyze influenza-related illnesses (ILI) in the United States 
 - Using data visualization to explore Airbnb listings in New York City
 - A LASSO regression predicting price of Airbnb listings in Budapest, Hungary
 - An OLS (Ordinary Least Squares) model analyzing income disparities among Canadian immigrants
 - A Java Swing GUI Application enabling users to add and view current investment logs
 
-I'm also currently working on the following projects, which will be publicly available on my Github soon:
-- A machine learning project to predict NCAA Basketball's March Madness tournament
-- Using classical time series models to analyze influenza-related illnesses (ILI) in the United States 
+Feel free to check out these projects on my website:
+https://karlestampador.github.io
 
 ## 🛠️Skills & Tools
 - Programming Languages: R, Python (Pandas, NumPy, Altair, Scikit-learn), Java, and LaTeX
