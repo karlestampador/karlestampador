@@ -1,5 +1,5 @@
 #  Hey there! 👋 I'm Karl!
-Welcome to my Github page! I'm in my third year pursuing a Combined Major in Economics & Statistics at the University of British Columbia (UBC) with a passion for actuarial science, data analytics, and data science!
+Welcome to my Github page! I'm in my third year pursuing a Combined Major in Economics & Statistics and (hopefully) a Minor in Data Science at the University of British Columbia (UBC) with a passion for actuarial science, data analytics, and data science!
 
 ## 🎯Goals & Interests
 I'm interested in landing opportunities in:
@@ -22,7 +22,7 @@ Feel free to check out these projects on my website:
 https://karlestampador.github.io
 
 ## 🛠️Skills & Tools
-- Programming Languages: R, Python (Pandas, NumPy, Altair, Scikit-learn), Java, and LaTeX
+- Programming Languages: R, Python (Pandas, NumPy, Altair, Scikit-learn), Java, SQL, and LaTeX
 - Tools & Platforms: GitHub, Visual Studio Code, Git, JupyterLab
 
 ## 📚 Coursework & Certifcations
@@ -30,6 +30,7 @@ Throughout my time at UBC, while I have taken a variety of courses in economics 
 - Data Visualization
 - Econometrics
 - Statistical Modelling
+- Machine Learning (currently taking right now!)
 - Probability & Statistical Inference
 - Time Series & Forecasting
 - Object-Oriented Programming (Software Construction)
@@ -39,4 +40,4 @@ Outside of the classroom, I have also passed multiple actuary exams:
 - Exam FM (Financial Mathematics) - 8/10
 
 ## 🌱 Currently Growing
-Looking to expand my knowledge in data visualization through Python and databases through SQL to assist with data analysis, while increasing my domain knowledge in statistical modelling!
+Looking to expand my knowledge in using data visualization tools such as PowerBI & Tableau while increasing my domain knowledge in machine learning to apply these skills to solve various problems!
